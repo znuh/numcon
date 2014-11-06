@@ -1,4 +1,4 @@
 numcon
 ======
 
-numconv
+numeral systems conversion extension for chrome
